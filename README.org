@@ -1,0 +1,9 @@
+* machine-measurements
+
+Perform measurements about CPU time, memory usage, etc.
+
+|---------+----------------------------------------------------------|
+| source  | git:https://github.com/Shinmera/machine-measurements.git |
+| commit  | 2426560                                                  |
+| systems | machine-measurements                                     |
+|---------+----------------------------------------------------------|
