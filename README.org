@@ -4,6 +4,6 @@ Perform measurements about CPU time, memory usage, etc.
 
 |---------+----------------------------------------------------------|
 | source  | git:https://github.com/Shinmera/machine-measurements.git |
-| commit  | 2426560                                                  |
+| commit  | 3aa985c                                                  |
 | systems | machine-measurements                                     |
 |---------+----------------------------------------------------------|
